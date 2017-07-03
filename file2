@@ -1,0 +1,6 @@
+git init: creates the .git directory
+git status
+git add
+git commit -m <comment"
+git log
+git rm --cache <filename>
