@@ -4,3 +4,5 @@ git add
 git commit -m <comment"
 git log
 git rm --cache <filename>
+
+git push -u origin master
